@@ -20,7 +20,7 @@ public class Main {
         }
 
         combination = nProduct / rProduct;
-        System.out.print("C(n,r)) " + combination);
+        System.out.print("C(n,r) " + combination);
 
     }
 }
